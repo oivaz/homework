@@ -1,0 +1,27 @@
+.opensans {
+    font-family: "Open Sans", "Times New Roman", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration: solid;
+}
+
+.lorem {
+    text-decoration: line-through;
+}
+
+.lorem2 {
+    text-transform: uppercase;
+    text-align: center;
+    white-space: noemal;
+}
+
+.text1 {
+    text-decoration: overline wavy;
+    word-spacing: 30px;
+    text-shadow: 2px 1px 1px blueviolet;
+}
+
+.text2 {
+    letter-spacing: 5px;
+    text-decoration: double underline;
+}
