@@ -1,0 +1,23 @@
+.box1 {
+    background-color: rgb(149, 216, 216);
+    border: 1px solid #000;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    overflow: auto;
+    height: 500px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.box2 {
+    background-color: bisque;
+    border: 1px solid #000;
+    border-radius: 30px;
+    display: inline-block;
+    width: 255px;
+    margin: 10px 5px;
+    padding: 25px 25px;
+    box-shadow: inset 1px 1px 10px 0px #000;
+}
